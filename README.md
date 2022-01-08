@@ -1,2 +1,2 @@
 # Print-Hello-world-in-python
-Python example
+print("Hello World\n") 
